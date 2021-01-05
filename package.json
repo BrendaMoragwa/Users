@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ashvin27/react-datatable": "^1.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "backbone-react-ui": "^0.1.8",
     "bootstrap": "^4.4.1",
     "json2csv": "^4.5.4",
